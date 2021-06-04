@@ -1,0 +1,8 @@
+package com.curso.database.entities;
+
+public class Curso {
+	
+	private Integer id;
+	private String nome;
+
+}
